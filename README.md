@@ -4,4 +4,4 @@ I'm Thomas, a Scottish developer that works mainly in JS/Node. Working here—at
 
 #### Call me beep me if you wanna reach me
 - Twitter: [@ThomasShaped](https://twitter.com/ThomasShaped)
-- Discord: ThomasShaped#0820
+- Mastodon: @Thms@mastodon.lol
